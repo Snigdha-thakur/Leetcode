@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Snigdha-thakur/Leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
 | [1115-valid-boomerang](https://github.com/Snigdha-thakur/Leetcode/tree/master/1115-valid-boomerang) |
 ## Geometry
