@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 <!---LeetCode Topics End-->
