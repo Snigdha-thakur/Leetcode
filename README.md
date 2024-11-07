@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Snigdha-thakur/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Snigdha-thakur/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/Snigdha-thakur/Leetcode/tree/master/1115-valid-boomerang) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Snigdha-thakur/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
