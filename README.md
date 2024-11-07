@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0812-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Snigdha-thakur/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Snigdha-thakur/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
