@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Snigdha-thakur/Leetcode/tree/master/0077-combinations) |
 ## String Matching
 |  |
 | ------- |
