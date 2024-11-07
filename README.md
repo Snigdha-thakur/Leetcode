@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Snigdha-thakur/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/Snigdha-thakur/Leetcode/tree/master/1115-valid-boomerang) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Snigdha-thakur/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Enumeration
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
