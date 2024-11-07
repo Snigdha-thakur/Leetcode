@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1244-distinct-echo-substrings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Snigdha-thakur/Leetcode/tree/master/0190-reverse-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1244-distinct-echo-substrings) |
+## Rolling Hash
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1244-distinct-echo-substrings) |
+## Hash Function
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1244-distinct-echo-substrings) |
 <!---LeetCode Topics End-->
