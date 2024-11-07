@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Snigdha-thakur/Leetcode/tree/master/0217-contains-duplicate) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Snigdha-thakur/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1244-distinct-echo-substrings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1244-distinct-echo-substrings) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 ## Two Pointers
 |  |
 | ------- |
