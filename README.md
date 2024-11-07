@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Snigdha-thakur/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/Snigdha-thakur/Leetcode/tree/master/1115-valid-boomerang) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 ## Simulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
 |  |
@@ -153,5 +156,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
