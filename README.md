@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
+| [0812-rotate-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 ## Dynamic Programming
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
