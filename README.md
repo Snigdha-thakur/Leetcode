@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
