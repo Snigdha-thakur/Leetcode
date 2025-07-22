@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Snigdha-thakur/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Snigdha-thakur/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0679-24-game](https://github.com/Snigdha-thakur/Leetcode/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Snigdha-thakur/Leetcode/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Snigdha-thakur/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
+| [0679-24-game](https://github.com/Snigdha-thakur/Leetcode/tree/master/0679-24-game) |
 | [1115-valid-boomerang](https://github.com/Snigdha-thakur/Leetcode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1610-xor-operation-in-an-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Snigdha-thakur/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Snigdha-thakur/Leetcode/tree/master/0077-combinations) |
+| [0679-24-game](https://github.com/Snigdha-thakur/Leetcode/tree/master/0679-24-game) |
 ## String Matching
 |  |
 | ------- |
