@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Snigdha-thakur/Leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Snigdha-thakur/Leetcode/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Snigdha-thakur/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
 | [0679-24-game](https://github.com/Snigdha-thakur/Leetcode/tree/master/0679-24-game) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
