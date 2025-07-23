@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Snigdha-thakur/Leetcode/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Snigdha-thakur/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Snigdha-thakur/Leetcode/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/Snigdha-thakur/Leetcode/tree/master/0860-design-circular-queue) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Snigdha-thakur/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Snigdha-thakur/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/Snigdha-thakur/Leetcode/tree/master/1115-valid-boomerang) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/Snigdha-thakur/Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Snigdha-thakur/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Snigdha-thakur/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Snigdha-thakur/Leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -276,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Snigdha-thakur/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Snigdha-thakur/Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
