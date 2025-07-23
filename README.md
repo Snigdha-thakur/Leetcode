@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Snigdha-thakur/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Snigdha-thakur/Leetcode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Snigdha-thakur/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Snigdha-thakur/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Snigdha-thakur/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
@@ -272,5 +274,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Snigdha-thakur/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
