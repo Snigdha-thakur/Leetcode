@@ -32,7 +32,6 @@ public class Solution {
         return 1 + Math.max(left, right);
     }
 
-    // Build tree from level order input
     public static TreeNode buildTree(String[] s) {
         if (s.length == 0 || s[0].equals("-1")) return null;
         TreeNode root = new TreeNode(Integer.parseInt(s[0]));
