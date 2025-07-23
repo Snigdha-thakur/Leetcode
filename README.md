@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Snigdha-thakur/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Snigdha-thakur/Leetcode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Snigdha-thakur/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Snigdha-thakur/Leetcode/tree/master/0739-daily-temperatures) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Snigdha-thakur/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Snigdha-thakur/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Snigdha-thakur/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
