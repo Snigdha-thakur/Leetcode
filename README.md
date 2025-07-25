@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2569-number-of-beautiful-partitions](https://github.com/Snigdha-thakur/Leetcode/tree/master/2569-number-of-beautiful-partitions) |
 ## Simulation
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Union Find
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
