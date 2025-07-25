@@ -1,22 +1,19 @@
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> result = new ArrayList<>();
-        findPaths(root, targetSum, new ArrayList<>(), result);
-        return result;
+        List<List<Integer>> res = new ArrayList<>();
+        traverse(root,res,new ArrayList<>(),targetSum);
+        return res;// return list of list o/p
     }
-
-    void findPaths(TreeNode node, int sum, List<Integer> path, List<List<Integer>> result) {
-        if (node == null) return;
-
-        path.add(node.val);
-
-        if (node.left == null && node.right == null && node.val == sum) {
-            result.add(new ArrayList<>(path));
-        } else {
-            findPaths(node.left, sum - node.val, path, result);
-            findPaths(node.right, sum - node.val, path, result);
+    void traverse(TreeNode root, List<List<Integer>> res, List<Integer> path, int targetSum){
+        if(root== null) return;
+        path.add(root.val);
+        if(root.left== null && root.right== null && targetSum-root.val==0){
+            res.add(new ArrayList<>(path));
         }
-
-        path.remove(path.size() - 1);
+        else{
+            traverse(root.left,res,path,targetSum-root.val);
+            traverse(root.right,res,path,targetSum-root.val);
+        }
+        path.remove(path.size()-1);//last element should be removed to backtrack
     }
 }
