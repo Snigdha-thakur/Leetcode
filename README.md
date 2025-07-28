@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/Snigdha-thakur/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Depth-First Search
