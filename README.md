@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Snigdha-thakur/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Snigdha-thakur/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Queue
 |  |
 | ------- |
