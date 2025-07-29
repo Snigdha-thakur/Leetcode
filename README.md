@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/Snigdha-thakur/Leetcode/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/Snigdha-thakur/Leetcode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0812-rotate-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Snigdha-thakur/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Snigdha-thakur/Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Snigdha-thakur/Leetcode/tree/master/0198-house-robber) |
