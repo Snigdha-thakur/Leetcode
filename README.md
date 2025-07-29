@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Snigdha-thakur/Leetcode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Snigdha-thakur/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Graph
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Snigdha-thakur/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Snigdha-thakur/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Snigdha-thakur/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Snigdha-thakur/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Snigdha-thakur/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Snigdha-thakur/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
