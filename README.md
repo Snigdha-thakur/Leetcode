@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Snigdha-thakur/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Snigdha-thakur/Leetcode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Snigdha-thakur/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Snigdha-thakur/Leetcode/tree/master/0204-count-primes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Snigdha-thakur/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Snigdha-thakur/Leetcode/tree/master/0198-house-robber) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Snigdha-thakur/Leetcode/tree/master/0070-climbing-stairs) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Linked List
 |  |
