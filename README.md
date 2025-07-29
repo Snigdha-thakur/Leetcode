@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Snigdha-thakur/Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Snigdha-thakur/Leetcode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Snigdha-thakur/Leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Snigdha-thakur/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Snigdha-thakur/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Snigdha-thakur/Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Snigdha-thakur/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
