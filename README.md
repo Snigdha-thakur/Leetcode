@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Snigdha-thakur/Leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snigdha-thakur/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Snigdha-thakur/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Snigdha-thakur/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Snigdha-thakur/Leetcode/tree/master/0072-edit-distance) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Binary Tree
 |  |
