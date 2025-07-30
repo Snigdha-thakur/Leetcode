@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Snigdha-thakur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Snigdha-thakur/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Snigdha-thakur/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Snigdha-thakur/Leetcode/tree/master/0322-coin-change) |
 | [0679-24-game](https://github.com/Snigdha-thakur/Leetcode/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Snigdha-thakur/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Snigdha-thakur/Leetcode/tree/master/0739-daily-temperatures) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Snigdha-thakur/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Snigdha-thakur/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Snigdha-thakur/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Snigdha-thakur/Leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Snigdha-thakur/Leetcode/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/Snigdha-thakur/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Snigdha-thakur/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Snigdha-thakur/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Snigdha-thakur/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Snigdha-thakur/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Snigdha-thakur/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
