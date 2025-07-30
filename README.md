@@ -225,10 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Snigdha-thakur/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Snigdha-thakur/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Snigdha-thakur/Leetcode/tree/master/0547-number-of-provinces) |
 | [2505-number-of-good-paths](https://github.com/Snigdha-thakur/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Snigdha-thakur/Leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Snigdha-thakur/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Snigdha-thakur/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Snigdha-thakur/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Snigdha-thakur/Leetcode/tree/master/0547-number-of-provinces) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Snigdha-thakur/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Snigdha-thakur/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Snigdha-thakur/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Snigdha-thakur/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Snigdha-thakur/Leetcode/tree/master/0547-number-of-provinces) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Snigdha-thakur/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Snigdha-thakur/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Topological Sort
